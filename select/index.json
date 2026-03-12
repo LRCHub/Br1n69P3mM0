@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "冷凍睡眠",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-03-12T17:08:55.426381Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "冷凍睡眠",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/01_冷凍睡眠_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "冷凍睡眠",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/02_冷凍睡眠_amazarashi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "冷凍睡眠",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_冷凍睡眠_amazarashi.txt"
+    }
+  ]
+}
